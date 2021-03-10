@@ -1,3 +1,1 @@
-# profitanalysis
-School project done in 2019.
-Modules: Pandas, EasyGUI
+The school project was done in Year 2, Semester 1. Modules used: Pandas, EasyGUI
